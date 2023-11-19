@@ -1,0 +1,992 @@
+[
+  {
+    "title": "An efficient hybrid algorithm for fire flame detection",
+    "assigned": "Kapish",
+    "publisher": "IEEE",
+    "published_year": 2015,
+    "country": "Ireland",
+    "authors": [
+      "Amin Khatami",
+      "Saeed Mirghasemi",
+      "Abbas Khosravi",
+      "Saeid Nahavandi"
+    ],
+    "keywords": {
+      "IEEE Keywords": ["Fires", "Optimization", "Skin"],
+      "INSPEC: Controlled Indexing": [
+        "fires",
+        "image colour analysis",
+        "image segmentation",
+        "object detection",
+        "particle swarm optimisation",
+        "pattern clustering"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "efficient hybrid algorithm",
+        "fire protection",
+        "social safety",
+        "fire flame detection method",
+        "linear transformation",
+        "red green and blue color space",
+        "RGB",
+        "fuzzy c-mean clustering method",
+        "FCM",
+        "fire flame pixels",
+        "nonfire flame pixels",
+        "particle swarm optimization algorithm",
+        "PSO",
+        "Otsu threshold method",
+        "binary pictue"
+      ],
+      "Author Keywords": []
+    }
+  },
+  {
+    "title": "DragonFly: Drone-Assisted High-Rise Monitoring for Fire Safety",
+    "assigned": "Kapish",
+    "publisher": "IEEE",
+    "published_year": 2015,
+    "country": "USA",
+    "authors": [
+      "Fangqi Liu",
+      "Tzu-Yi Fan",
+      "Casey Grant",
+      "Cheng-Hsin Hsu",
+      "Nalini Venkatasubramanian"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Visualization",
+        "Simulation",
+        "Buildings",
+        "Dynamic scheduling",
+        "Windows",
+        "Sensors",
+        "Reliability"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "autonomous aerial vehicles",
+        "fires",
+        "mobile robots",
+        "multi-robot systems",
+        "optimisation",
+        "real-time systems",
+        "scheduling"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "DragonFly",
+        "drone-assisted high-rise monitoring",
+        "fire safety",
+        "drone-based data collection",
+        "real-time situational awareness",
+        "high-rise building",
+        "event detection",
+        "multidrone",
+        "high-rise fire scenario",
+        "waypoint scheduling problem",
+        "NP-hard problem"
+      ],
+      "Author Keywords": [
+        "High-rise fire",
+        "drone",
+        "observation accuracy",
+        "task allocation",
+        "waypoint scheduling",
+        "optimization"
+      ]
+    }
+  },
+  {
+    "title": "Forest Fire-Fighting Monitoring System Based on UAV Team and Remote Sensing",
+    "assigned": "Kapish",
+    "publisher": "IEEE",
+    "published_year": 2018,
+    "country": "Ukraine",
+    "authors": ["Vladimir Sherstjuk", "Maryna Zharikova", "Igor Sokol"],
+    "keywords": {
+      "IEEE Keywords": [
+        "Image processing",
+        "Monitoring",
+        "Remote sensing",
+        "Forestry",
+        "Atmospheric modeling",
+        "Fires",
+        "Decision support systems"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "autonomous aerial vehicles",
+        "decision support systems",
+        "emergency management",
+        "fires",
+        "image recognition",
+        "remote sensing",
+        "remotely operated vehicles"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "remote sensing techniques",
+        "real-time forest fire response decision support system",
+        "automatic monitoring",
+        "approximate fire-spreading model",
+        "fire prediction",
+        "forest fire-fighting monitoring system",
+        "UAV team",
+        "tactical forest fire-fighting operations",
+        "unmanned aerial vehicles"
+      ],
+      "Author Keywords": [
+        "unmanned air vehicles",
+        "forest fire monitoring",
+        "remote sensing",
+        "image processing",
+        "fire-spreading model"
+      ]
+    }
+  },
+  {
+    "title": "3D Visualization of Forest Fire Spread Model Based on Cellular Automata",
+    "publisher": "IEEE",
+    "assigned": "Kapish",
+    "published_year": 2023,
+    "country": "China",
+    "authors": ["Zeqing Hou", "Yu Sun", "Mingyu Cai"],
+    "keywords": {
+      "IEEE Keywords": [
+        "Solid modeling",
+        "Visualization",
+        "Three-dimensional displays",
+        "Communication systems",
+        "Computational modeling",
+        "Automata",
+        "Forestry"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "automata theory",
+        "cellular automata",
+        "fires",
+        "forestry",
+        "solid modelling"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "3D visualization",
+        "CA",
+        "cell structure",
+        "cellular automata",
+        "evolution rules",
+        "fire extinguishing",
+        "fire spread process",
+        "forest fire prevention",
+        "forest fire spread model",
+        "forest fire spread simulation system",
+        "traditional forest fire spread model",
+        "Unity 3D technology"
+      ],
+      "Author Keywords": [
+        "forest fire spread model",
+        "cellular automata",
+        "Unity 3D",
+        "3D visualization"
+      ]
+    }
+  },
+  {
+    "title": "RSA based Forest fire spread detection using Drones and Image Processing",
+    "assigned": "Kapish",
+    "publisher": "IEEE",
+    "published_year": 2022,
+    "country": "India",
+    "authors": [
+      "C Nithesh",
+      "T Shakthi",
+      "G Sumathi",
+      "SP Mihir Achyuta",
+      "Nuthakki Shiv Thomas",
+      "Aparna Mohanty",
+      "Madhur Padavala"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Forests",
+        "Climate change",
+        "Navigation",
+        "Image processing",
+        "Wildlife",
+        "Helicopters",
+        "Ecosystems",
+        "Fires"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "aerospace robotics",
+        "autonomous aerial vehicles",
+        "chaos",
+        "climatology",
+        "ecology",
+        "fires",
+        "forestry",
+        "mobile robots",
+        "remotely operated vehicles",
+        "vegetation"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "biological ecosystem",
+        "chaos",
+        "climate change",
+        "essential parts",
+        "forest fires",
+        "forest lands",
+        "higher scale",
+        "Image processing",
+        "multiple drones",
+        "numerous occasions",
+        "potential danger",
+        "RSA based forest fire",
+        "spread area",
+        "tremendous impact",
+        "UAV Navigation",
+        "wildlife"
+      ],
+      "Author Keywords": [
+        "Forest fire detection",
+        "Image processing",
+        "Drone System",
+        "Fire spread detection",
+        "Ripple algorithm"
+      ]
+    }
+  },
+  {
+    "title": "Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset",
+    "assigned": "Kapish",
+    "publisher": "IEEE",
+    "country": "USA",
+    "published_year": 2022,
+    "authors": [
+      "Xiwen Chen",
+      "Bryce Hopkins",
+      "Hao Wang",
+      "Leo O'Neill",
+      "Fatemeh Afghah",
+      "Abolfazl Razi",
+      "Peter Fulé",
+      "Janice Coen",
+      "Eric Rowell",
+      "Adam Watts"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Data models",
+        "Fires",
+        "Autonomous aerial vehicles",
+        "Deep learning",
+        "Forests",
+        "Monitoring",
+        "Satellite navigation systems",
+        "Remote sensing"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "autonomous aerial vehicles",
+        "deep learning (artificial intelligence)",
+        "forestry",
+        "geophysical image processing",
+        "image colour analysis",
+        "image fusion",
+        "infrared imaging",
+        "object detection",
+        "remote sensing",
+        "robot vision",
+        "video signal processing",
+        "wildfires"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "3D mobility",
+        "beneficial fire outcomes",
+        "burn information",
+        "deep learning-based methodology",
+        "drone systems",
+        "drone-collected RGB-IR image dataset",
+        "dual-feed side-by-side videos",
+        "fire modeling techniques",
+        "fire segmentation",
+        "forest monitoring technologies",
+        "georeferenced pre-burn point cloud",
+        "ground vehicles",
+        "guide dataset",
+        "in-time intervention",
+        "low flight altitude",
+        "multimodal UAV-collected dataset",
+        "no-fire frames",
+        "Northern Arizona",
+        "observation towers",
+        "open canopy pine forest",
+        "prescribed burns",
+        "prescribed fire",
+        "real-time fire monitoring",
+        "reliable data-driven fire detection",
+        "remote forests",
+        "RGB orthomosaic",
+        "satellite remote sensing",
+        "smoke pixels",
+        "thermal images",
+        "unmanned aerial vehicles",
+        "well-annotated aerial datasets",
+        "wildland fire datasets",
+        "wildland fire detection"
+      ],
+      "Author Keywords": [
+        "Data-driven fire detection",
+        "prescribed fire",
+        "fire modeling",
+        "fire data",
+        "unmanned aerial vehicle (UAV)",
+        "deep learning"
+      ]
+    }
+  },
+  {
+    "title": "Thermal Infrared Video Stabilization for Aerial Monitoring of Active Wildfires",
+    "assigned": "Kapish",
+    "publisher": "IEEE",
+    "published_year": 2021,
+    "country": "Spain",
+    "authors": [
+      "Mario Miguel Valero",
+      "Steven Verstockt",
+      "Bret Butler",
+      "Daniel Jimenez",
+      "Oriol Rios",
+      "Christian Mata",
+      "Lloyd Queen",
+      "Elsa Pastor",
+      "Eulàlia Planas"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Cameras",
+        "Image registration",
+        "Video sequences",
+        "Monitoring",
+        "Annotations",
+        "Unmanned aerial vehicles",
+        "Temperature measurement"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "autonomous aerial vehicles",
+        "cameras",
+        "feature extraction",
+        "fires",
+        "geophysical signal processing",
+        "image matching",
+        "image registration",
+        "image resolution",
+        "image sensors",
+        "image sequences",
+        "infrared imaging",
+        "remotely operated vehicles",
+        "video signal processing",
+        "wildfires"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "thermal infrared video stabilization",
+        "aerial monitoring",
+        "active wildfire",
+        "fire science",
+        "fire management",
+        "aerial thermal infrared imaging",
+        "fire rate",
+        "fire radiative power",
+        "raw TIR imagery",
+        "unmanned aerial vehicles",
+        "georeferencing",
+        "aerial video",
+        "fire TIR video",
+        "hinder robust interframe registration",
+        "software-based video stabilization algorithm",
+        "forest fires",
+        "image registration algorithms",
+        "KAZE feature-matching method",
+        "video sequence",
+        "field fire experiments",
+        "faulty video frames",
+        "data processing pipelines",
+        "systematic fire behavior experimental analyses"
+      ],
+      "Author Keywords": [
+        "Fire behavior",
+        "image registration",
+        "KAZE",
+        "remote sensing",
+        "unmanned aerial systems (UAS)",
+        "video stabilization",
+        "wildland fire"
+      ]
+    }
+  },
+  {
+    "title": "Targeted Extinguishing of Fire Through the Propagation of Acoustic Waves",
+    "assigned": "Nirmalya",
+    "publisher": "IEEE",
+    "published_year": 2023,
+    "country": "India",
+    "authors": [
+      "Arnav Shah",
+      "Yash Muthalia",
+      "Vinay Vishwakarma",
+      "Reetu Jain"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Heating systems",
+        "Toxicology",
+        "Motion pictures",
+        "Generators",
+        "Electron tubes",
+        "Fuels",
+        "Space stations"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "acoustic devices",
+        "acoustic imaging",
+        "acoustic materials",
+        "acoustic wave propagation",
+        "fire extinguishers",
+        "lenses",
+        "vortices"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "acoustic fire extinguishing",
+        "acoustic lensing",
+        "acoustic-pressure wave propagation",
+        "cooling",
+        "frequency generator circuit",
+        "longitudinal sound pressure waves",
+        "optimisation",
+        "vortex tubes"
+      ],
+      "Author Keywords": [
+        "Fire",
+        "Sound Extinguishing",
+        "Acoustic Extinguishing",
+        "Acoustics",
+        "Sound",
+        "Fire Extinguishing"
+      ]
+    }
+  },
+  {
+    "title": "Performance Evaluation of Sonic Fire Fighting System",
+    "assigned": "Nirmalya",
+    "publisher": "IEEE",
+    "published_year": 2021,
+    "country": "India",
+    "authors": ["Sonali Jain", "Ashish Ranjan", "Mehtab Fatima", "Siddharth"],
+    "keywords": {
+      "IEEE Keywords": ["Performance evaluation", "Collimators", "Time-frequency analysis", "Propagation", "Fires", "Power amplifiers", "Gen"],
+      "INSPEC: Controlled Indexing": ["acoustic wave propagation", "acoustic waves", "chemically reactive flow", "combustion", "flames"],
+      "INSPEC: Non-Controlled Indexing": [
+    "low frequency sound wave device",
+    "acoustic wave generator",
+    "Collimator design",
+    "medium fires",
+    "sound waves",
+    "performance evaluation",
+    "sonic fire fighting system",
+    "chemical based methods",
+    "traditional fire extinguishing techniques",
+    "sound wave propagation",
+    "truncated designed collimator",
+    "frequency 63.1 Hz"
+],
+      "Author Keywords": ["extinguisher", "alternative", "acoustic", "flame extinction", "collimator"]
+    }
+  },
+  {
+    "title": "Development and control of an aerial extinguisher with an inert gas capsule",
+    "assigned": "Nirmalya",
+    "publisher": "IEEE",
+    "published_year": 2015,
+    "country": "Indonesia",
+    "authors": [
+      "Satoshi Ogawa",
+      "Shinya Kudo",
+      "Masahiro Koide",
+      "Hiroyuki Torikai",
+      "Yasushi Iwatani"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Helium",
+        "Robot sensing systems",
+        "Furnaces",
+        "Rubber",
+        "Rotors",
+        "Three-dimensional displays"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "autonomous aerial vehicles",
+        "fires",
+        "flames",
+        "helicopters",
+        "helium",
+        "inert gases"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "aerial extinguisher control",
+        "inert gas capsule",
+        "carbon dioxide",
+        "CO2",
+        "nitrogen",
+        "N2",
+        "extinguishment performance",
+        "robotic fire extinguishment approach",
+        "quadcopter",
+        "rubber balloon",
+        "helium",
+        "depth sensor",
+        "methane",
+        "flow rate",
+        "CO2",
+        "N2"
+      ],
+      "Author Keywords": []
+    }
+  },
+  {
+    "title": "Use of Fire-Extinguishing Balls for a Conceptual System of Drone-Assisted Wildfire Fighting",
+    "assigned": "Nirmalya",
+    "publisher": "MDPI",
+    "published_year": 2019,
+    "country": "USA",
+    "authors": ["Burchan Aydin", "Emre Selvi", "Jian Tao", "Michael J. Starek"],
+    "keywords": {
+      "IEEE Keywords": [],
+      "INSPEC: Controlled Indexing": [],
+      "INSPEC: Non-Controlled Indexing": [],
+      "Author Keywords": [
+        "drones",
+        "unmanned aircraft system (UAS)",
+        "fire extinguishing balls",
+        "remote sensing",
+        "wildfires"
+      ]
+    }
+  },
+  {
+    "title": "Design and Implementation of Fire Extinguishing Ball Thrower Quadcopter",
+    "assigned": "Nirmalya",
+    "publisher": "IEEE",
+    "published_year": 2020,
+    "country": "Bangladesh",
+    "authors": [
+      "Sourav Barua",
+      "Meer Shadman Shafkat Tanjim",
+      "Ashrafun Nushra Oishi",
+      "Sudeb Chandra Das",
+      "Md. Abul Basar",
+      "Shoyeb Ahammad Rafi"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Drones",
+        "Prototypes",
+        "Forestry",
+        "Europe",
+        "Robots",
+        "Propellers",
+        "Buildings"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "control engineering computing",
+        "disasters",
+        "emergency services",
+        "fires",
+        "hazards",
+        "helicopters",
+        "mobile robots",
+        "service robots"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "fire fighters",
+        "fire extinguishing ball thrower quadcopter",
+        "fire extinguishing robots",
+        "fire disasters"
+      ],
+      "Author Keywords": [
+        "Fire extinguishing ball",
+        "Fire Extinguishing Quadcopter (FEQ)",
+        "Firefighting Drones (FFD)",
+        "BLDC",
+        "Ball Thrower"
+      ]
+    }
+  },
+  {
+    "title": "Modular attachments for several applications with the aid of an aerial drone",
+    "assigned": "Nirmalya",
+    "publisher": "IEEE",
+    "published_year": 2023,
+    "country": "India",
+    "authors": ["Anita Gehlot", "Rajesh Singh", "Devendra Singh"],
+    "keywords": {
+      "IEEE Keywords": [
+        "Industries",
+        "Pollution",
+        "Surveillance",
+        "Crops",
+        "Atmosphere",
+        "Sustainable development",
+        "Drones"
+      ],
+      "INSPEC: Controlled Indexing": ["autonomous aerial vehicles"],
+      "INSPEC: Non-Controlled Indexing": [
+        "aerial drone",
+        "Amazon",
+        "drone delivery services",
+        "drone-based applications",
+        "drone-based business",
+        "India",
+        "modular attachments",
+        "multifunctional drone",
+        "single drone",
+        "Zomato"
+      ],
+      "Author Keywords": [
+        "agricultural",
+        "autonomous",
+        "delivery",
+        "drone",
+        "firefighting",
+        "multi-attachment",
+        "multi-functional",
+        "pollution monitoring"
+      ]
+    }
+  },
+  {
+    "title": "FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments",
+    "assigned": "Jen",
+    "publisher": "IEEE",
+    "published_year": 2021,
+    "country": "USA",
+    "authors": [
+      "Jesus Tordesillas",
+      "Brett T. Lopez",
+      "Michael Everett",
+      "Jonathan P. How"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Trajectory",
+        "Safety",
+        "Resource management",
+        "Optimization",
+        "Planning",
+        "Aerospace electronics",
+        "Hardware"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "mobile robots",
+        "path planning",
+        "trajectory control"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "free-known space",
+        "ad-hoc time",
+        "interval allocation scheme",
+        "conservative trajectories",
+        "slower trajectories",
+        "FASTER",
+        "local planner",
+        "fast and safe trajectory planner",
+        "free-known spaces",
+        "unknown spaces",
+        "safe back-up",
+        "trajectory interval allocation",
+        "unknown cluttered environments",
+        "maximum speed",
+        "planning high-speed trajectories",
+        "algorithmic techniques",
+        "fast reaction times",
+        "skid-steer ground robot"
+      ],
+      "Author Keywords": [
+        "Convex decomposition",
+        "path planning",
+        "trajectory optimization",
+        "UAV"
+      ]
+    }
+  },
+  {
+    "title": "EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments",
+    "assigned": "Jen",
+    "publisher": "IEEE",
+    "published_year": 2021,
+    "country": "China",
+    "authors": [
+      "Xin Zhou",
+      "Jiangchao Zhu",
+      "Hongyu Zhou",
+      "Chao Xu",
+      "Fei Gao"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Location awareness",
+        "Systematics",
+        "Codes",
+        "Navigation",
+        "Conferences",
+        "Robustness",
+        "Trajectory"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "aerospace navigation",
+        "aircraft control",
+        "collision avoidance",
+        "decentralised control",
+        "gradient methods",
+        "helicopters",
+        "mobile robots",
+        "multi-agent systems",
+        "multi-robot systems",
+        "nonlinear programming",
+        "object detection",
+        "robot vision",
+        "robust control",
+        "trajectory control"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "onboard resources",
+        "planning system",
+        "collision avoidance",
+        "collision risk",
+        "nonlinear optimization",
+        "local minima",
+        "safe trajectories",
+        "smooth trajectories",
+        "dynamically feasible trajectories",
+        "relative localization drift",
+        "agent detection",
+        "EGO-swarm",
+        "cluttered environments",
+        "asynchronous systematic solution",
+        "multirobot autonomous navigation",
+        "trajectory sharing network",
+        "lightweight topological trajectory generation",
+        "gradient-based local planning",
+        "obstacle-rich scenes",
+        "decentralized quadrotor swarm system",
+        "fully autonomous quadrotor swarm system",
+        "decentralized systematic solution",
+        "robustness",
+        "depth images"
+      ],
+      "Author Keywords": []
+    }
+  },
+  {
+    "title": "Collision avoidance for aerial vehicles in multi-agent scenarios",
+    "assigned": "Jen",
+    "publisher": "Springer Link",
+    "published_year": 2015,
+    "country": "Switzerland",
+    "authors": [
+      "Javier Alonso-Mora",
+      "Tobias Naegeli",
+      "Roland Siegwart",
+      "Paul Beardsley"
+    ],
+    "keywords": {
+      "IEEE Keywords": [],
+      "INSPEC: Controlled Indexing": [],
+      "INSPEC: Non-Controlled Indexing": [],
+      "Author Keywords": [
+        "Collision avoidance",
+        "Reciprocal",
+        "Aerial vehicle",
+        "Quadrotor",
+        "Multi-robot",
+        "Multi-agent",
+        "Motion planning",
+        "Dynamic environment"
+      ]
+    }
+  },
+  {
+    "title": "Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments",
+    "assigned": "Jen",
+    "publisher": "IEEE",
+    "published_year": 2020,
+    "country": "Hong Kong",
+    "authors": [
+      "Fei Gao",
+      "Luqi Wang",
+      "Boyu Zhou",
+      "Xin Zhou",
+      "Jie Pan",
+      "Shaojie Shen"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Trajectory",
+        "Drones",
+        "Education",
+        "Robustness",
+        "Robots",
+        "Planning",
+        "Optimization"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "aircraft control",
+        "autonomous aerial vehicles",
+        "collision avoidance",
+        "helicopters",
+        "inspection",
+        "mobile robots",
+        "path planning",
+        "robot vision"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "teach-repeat-replan",
+        "complete robust system",
+        "aggressive flight",
+        "complex environments",
+        "complete system",
+        "autonomous quadrotors",
+        "topological structure",
+        "flight trajectory",
+        "drone",
+        "teaching trajectory",
+        "human-piloted trajectory",
+        "generated trajectory",
+        "human preferable aggressiveness",
+        "fast local perception method",
+        "dynamically feasible local trajectories",
+        "teach-repeat-replan",
+        "flight mission",
+        "arbitrarily jerky teaching path",
+        "smooth repeating trajectory",
+        "safe local replans",
+        "planning system",
+        "complete autonomous quadrotor",
+        "localization submodules",
+        "quadrotor system"
+      ],
+      "Author Keywords": [
+        "Aerial systems: applications, motion, and path planning",
+        "autonomous vehicle navigation",
+        "collision avoidance"
+      ]
+    }
+  },
+  {
+    "title": "A Coverage Path Planning Algorithm for Self-Organizing Drone Swarms",
+    "assigned": "Jen",
+    "publisher": "IEEE",
+    "published_year": 2021,
+    "country": "Serbia",
+    "authors": [
+      "Konstantinos Bezas",
+      "Georgios Tsoumanis",
+      "Konstantinos Oikonomou"
+    ],
+    "keywords": {
+      "IEEE Keywords": [
+        "Spirals",
+        "Shape",
+        "Forestry",
+        "Path planning",
+        "Real-time systems",
+        "Particle swarm optimization",
+        "Faces"
+      ],
+      "INSPEC: Controlled Indexing": [
+        "disasters",
+        "fires",
+        "mobile robots",
+        "multi-robot systems",
+        "path planning",
+        "remotely operated vehicles",
+        "self-adjusting systems"
+      ],
+      "INSPEC: Non-Controlled Indexing": [
+        "PoI",
+        "coverage path planning algorithm",
+        "self-organizing drone swarms",
+        "forest fires",
+        "disaster response missions",
+        "simple polygon shapes",
+        "parallel coverage path",
+        "Point of Interest"
+      ],
+      "Author Keywords": [
+        "Coverage Path Planning",
+        "Swarm Intelligence",
+        "Drones"
+      ]
+    }
+  },
+  {
+    "title": "Swarm of micro flying robots in the wild",
+    "assigned": "Jen",
+    "publisher": "Science Robotics",
+    "published_year": 2022,
+    "country": "China",
+    "authors": [
+      "Xin Zhou",
+      "Xiangyong Wen",
+      "Zhepei Wang",
+      "Yuman Gao",
+      "Haojia Li",
+      "Qianhao Wang",
+      "Tiankai Yang",
+      "Haojian Lu",
+      "Yanjun Cao",
+      "Chao Xu",
+      "Fei Gao"
+    ],
+    "keywords": {
+      "IEEE Keywords": [],
+      "INSPEC: Controlled Indexing": [],
+      "INSPEC: Non-Controlled Indexing": [],
+      "Author Keywords": [
+        "Swarm navigation",
+        "Miniature drones",
+        "Trajectory planning",
+        "Obstacle avoidance",
+        "Spatial-temporal optimization",
+        "Goal-chasing framework",
+        "Multiobjective optimization",
+        "Visual-inertial localization",
+        "Decentralized drift correction",
+        "Ultra-wideband sensors",
+        "Palm-sized hardware",
+        "Autonomous flight",
+        "Cluttered environments"
+      ]
+    }
+  },
+  {
+    "title": "A Survey on Robotic Technologies for Forest Firefighting: Applying Drone Swarms to Improve Firefighters’ Efficiency and Safety",
+    "assigned": "Nirmalya",
+    "publisher": "MDPI",
+    "published_year": 2021,
+    "country": "Spain",
+    "authors": [
+      "Juan Jesús Roldán-Gómez",
+      "Eduardo González-Gironda",
+      "Antonio Barrientos"
+    ],
+    "keywords": {
+      "IEEE Keywords": [],
+      "INSPEC: Controlled Indexing": [],
+      "INSPEC: Non-Controlled Indexing": [],
+      "Author Keywords": [
+        "robotics",
+        "multi-robot systems",
+        "swarms",
+        "drones",
+        "firefighting"
+      ]
+    }
+  }
+]
